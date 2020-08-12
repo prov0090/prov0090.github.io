@@ -54,7 +54,7 @@ h1, h2 {
 }
 
 
-p {
+.card {
     background: white;
     border: 0 none;
     box-shadow: 0 0 10px #333131;
