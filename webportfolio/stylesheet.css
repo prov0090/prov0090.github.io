@@ -2,10 +2,65 @@ body {
     background-color: #DDB4AB;
 }
 
-h1, h2, #nav-link {
+h1, h2 {
     color: #E76B5E;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.container2 {
-    background-color: white ;
+.fab, .fas {
+    color: #E76B5E;
+    padding: 5%;
+}
+
+#message {
+    width: 400px;
+    margin:50px auto;
+    position: relative;
+}
+
+#message fieldset {
+    background: white;
+    border: 0 none;
+    box-shadow: 0 0 10px #333131;
+    padding: 20px 30px;
+    box-sizing: border-box;
+    width: 80%;
+    margin: 0 10%;
+    position: relative;
+}
+
+#message input, #message textarea{
+    padding: 15px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    color: #9B9B9B;
+    font-size: 16px;
+}
+
+/* Button for message form */
+#message button {
+    width: 100%;
+    background: #F5CD8E;
+    font-family: montserrat;
+    font-weight: bold;
+    font-size: 24px;
+    color: white;
+    border: none;
+    padding: 10px 5px;
+    margin: 10px 5px ;
+    text-align: center;
+}
+
+
+p {
+    background: white;
+    border: 0 none;
+    box-shadow: 0 0 10px #333131;
+    padding: 20px 30px;
+    box-sizing: border-box;
+    width: 80%;
+    margin: 0 10%;
+    position: relative;
 }
