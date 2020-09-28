@@ -1,0 +1,31 @@
+body {
+    background-color: #b38da4;
+}
+
+.hero-image {
+    background-image: url("images/PROVOST_V_monday.jpg");
+    height: 800px;
+}
+#navbarTogglerDemo02 {
+    background-color: #b38da4;
+}
+
+h1 {
+    color: #f4dec9;
+    background-color: #b38da4;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.card-body {
+    background-color: #5a4752;
+    margin: 5%;
+}
+
+.card-body:nth-child(2) {
+    background-color: #d9c2d0;
+}
+
+footer {
+    background-color: #b38da4;
+}
