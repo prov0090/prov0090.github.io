@@ -77,7 +77,9 @@ article {
     grid-template-rows: 0.5fr 3fr 0.5fr 0.5fr;
   }
 }
-
+.article__image2 {
+  
+}
 .article__image {
   grid-column-start: 1;
   grid-column-end: 9;
@@ -85,7 +87,7 @@ article {
   grid-row-end: 2;
   
   overflow: hidden;
-  background: transparent url('https://images.unsplash.com/photo-1490122417551-6ee9691429d0') center 0px no-repeat;
+  background: transparent url('image/104594624_10156991697481277_1389238593487198660_o.jpg') center 0px no-repeat;
   background-size: 100% auto;
   background-position: center center;
   
