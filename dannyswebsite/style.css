@@ -99,12 +99,13 @@
     background: #333;
   }
 
+  /* logo triology */
 .left {
   width: 50px;
   float: left;
   margin-top: 15px;
 }
-
+ /* logo triology */
 .right {
   width: 50px;
   float: right;
@@ -144,7 +145,10 @@ input[type=submit]:hover {
 
 table, th, td {
   border: 1px solid black;
+  width: 1000px;
+  padding: 15px;
 }
+
 table.center1 {
   margin-left: auto; 
   margin-right: auto;
